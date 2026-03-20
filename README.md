@@ -66,7 +66,9 @@ current flows through its emitter generating the voltage across the resistance c
 
 ---
 
-## BLOCK DIAGR
+## BLOCK DIAGRAM
+<img width="931" height="541" alt="image" src="https://github.com/user-attachments/assets/66bad376-ab6d-4520-bdc1-3e59070cad7b" />
+
 
 
 ---
@@ -75,18 +77,19 @@ current flows through its emitter generating the voltage across the resistance c
 ## TABULATION  
 **Transmission through Analog Link**
 
-| Frequency (Hz) | Output Signal Amplitude (Vo) | Gain = Vo/Vi | Gain in dB |
-|----------------|------------------------------|--------------|------------|
-|                |                              |              |            |
+<img width="1366" height="1158" alt="image" src="https://github.com/user-attachments/assets/a18e3fcb-17d5-4d81-9ee5-abbf9e97662b" />
+
 
 ---
 
 ## MODEL GRAPH
 
-*(Insert model graph here)*
+<img width="905" height="431" alt="image" src="https://github.com/user-attachments/assets/7a1179d9-8c9b-40f3-803f-bd99df41d1c5" />
 
----
+
+## GRAPH
+<img width="1600" height="1249" alt="image" src="https://github.com/user-attachments/assets/8f87e8a4-05e7-4c0d-835c-4d6944bac0e9" />
 
 ## RESULT
 
-*(Summarize observations and conclusions here)*
+The frequency response of the 660nm analog fiber optic link was successfully verified, showing a 3dB cutoff frequency beyond which the signal attenuation increases significantly.
