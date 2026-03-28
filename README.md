@@ -67,7 +67,7 @@ current flows through its emitter generating the voltage across the resistance c
 ---
 
 ## BLOCK DIAGRAM
-<img width="931" height="541" alt="image" src="https://github.com/user-attachments/assets/66bad376-ab6d-4520-bdc1-3e59070cad7b" />
+![WhatsApp Image 2026-03-26 at 7 21 37 PM](https://github.com/user-attachments/assets/a391d36e-ed35-4879-8ac1-cb66c56dc15e)
 
 
 
@@ -76,19 +76,18 @@ current flows through its emitter generating the voltage across the resistance c
 
 ## TABULATION  
 **Transmission through Analog Link**
-
-<img width="1366" height="1158" alt="image" src="https://github.com/user-attachments/assets/a18e3fcb-17d5-4d81-9ee5-abbf9e97662b" />
-
+![WhatsApp Image 2026-03-26 at 7 17 27 PM](https://github.com/user-attachments/assets/2adcf2a4-e565-4f32-bb1e-a6b7a8a36e8d)
 
 ---
 
 ## MODEL GRAPH
+![WhatsApp Image 2026-03-26 at 7 21 46 PM](https://github.com/user-attachments/assets/6eeb8f3b-788e-44ad-9da3-5ff457de2584)
 
-<img width="905" height="431" alt="image" src="https://github.com/user-attachments/assets/7a1179d9-8c9b-40f3-803f-bd99df41d1c5" />
+![WhatsApp Image 2026-03-26 at 7 21 52 PM](https://github.com/user-attachments/assets/b3bd3523-c3d3-4af3-9112-3395797c7f92)
 
+*(Insert model graph here)*
 
-## GRAPH
-<img width="1600" height="1249" alt="image" src="https://github.com/user-attachments/assets/8f87e8a4-05e7-4c0d-835c-4d6944bac0e9" />
+---
 
 ## RESULT
 
